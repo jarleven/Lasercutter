@@ -1,6 +1,6 @@
-# Using the Gravograph lasercutter
+# Using the Gravograph LS1000 XP CO2 lasercutter
 
-Sharing my experience on the Gravograph LS1000 XP CO2
+Sharing my experience on the Gravograph LS1000 XP CO2 and the Gravostyle software
 ```
 60W CO2 laser source
 4 meter/sec speed
