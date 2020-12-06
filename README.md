@@ -5,7 +5,7 @@ Sharing my experience on the Gravograph LS1000 XP CO2 lasercutter
 60W CO2 laser source
 4 meter/sec speed
 3600 DPI resolution
-122cm x 61cm work area
+1220mm x 610mm work area
 ```
 About the standalone driver
 https://www.gravotech.co.jp/mimaki/L-Solution%20laser%20driver.pdf
