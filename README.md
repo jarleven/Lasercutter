@@ -22,3 +22,6 @@ https://photos.app.goo.gl/XnPmDQoEu5akArEb9
 Link to documentation
 https://www.gravograph.com/products-and-consumables/products/laser-solutions/large-format-co-laser-engraving-machine/ls1000xp
 
+
+!['Gravograph LS1000XP'](https://static.gravotech.com/var/gravotech/storage/images/gravograph/_international/produits-et-consommables/produits/solutions-laser/gravure-laser-co-grand-format/ls1000xp/397988-6-int-FR/ls1000xp_editorial_main_image.jpg)
+
