@@ -7,6 +7,11 @@ Sharing my experience on the Gravograph LS1000 XP CO2 and the Gravostyle softwar
 3600 DPI resolution
 122cm x 61cm work area
 ```
+About the standalone driver
+https://www.gravotech.co.jp/mimaki/L-Solution%20laser%20driver.pdf
+
+"Printer driver"
+https://www.gravotech.co.jp/download_mimaki.php
 
 YouTube channel
 https://www.youtube.com/channel/UCbalQbcKA99XwuRVl5Chzbw
