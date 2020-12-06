@@ -19,3 +19,6 @@ https://www.youtube.com/channel/UCbalQbcKA99XwuRVl5Chzbw
 Google photoalbum
 https://photos.app.goo.gl/XnPmDQoEu5akArEb9
 
+Link to documentation
+https://www.gravograph.com/products-and-consumables/products/laser-solutions/large-format-co-laser-engraving-machine/ls1000xp
+
