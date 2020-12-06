@@ -1,6 +1,6 @@
-# Using the Gravograph LS1000 XP CO2 lasercutter
+# Using the Gravograph LS1000 XP CO2 lasercutter with Adobe Illustrator
 
-Sharing my experience on the Gravograph LS1000 XP CO2 and the Gravostyle software
+Sharing my experience on the Gravograph LS1000 XP CO2 lasercutter
 ```
 60W CO2 laser source
 4 meter/sec speed
