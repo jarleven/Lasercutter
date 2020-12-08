@@ -1,4 +1,4 @@
-# Using the Gravograph LS1000 XP CO2 lasercutter with Adobe Illustrator
+## Using the Gravograph LS1000 XP CO2 lasercutter with Adobe Illustrator
 
 Sharing my experience on the Gravograph LS1000 XP CO2 lasercutter
 ```
