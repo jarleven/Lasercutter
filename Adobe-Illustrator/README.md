@@ -1,6 +1,7 @@
-
+```
 Use RGB color space
-
+```
+```
 Path/lines/Vector 
 	Stroke weight 0.001 pt
 	No fill
@@ -11,9 +12,9 @@ Fill/Engrave/Rster
 	
 #Shortcuts
     Illustrator bucket - K
+```bv
 
-
-
+```
 #Panelize!
 
 https://www.youtube.com/watch?v=gZ_sP9kLhGs
@@ -21,11 +22,12 @@ https://www.youtube.com/watch?v=gZ_sP9kLhGs
 Select and copy 
 Hold "Alt" - Under drag/move copied part ( crtl+c --> ctrl+alt+v  --> hold alt og dra )
 Ctrl-D lagar ny komponent med same offset
+```
 
-
+```
 Hold "Alt" while scrolling mouse wheel to zoom
-
-
+```
+```
 #Gravograph LSolution colors
 
 Black       000000
@@ -36,7 +38,7 @@ Blue        0000ff
 Purple      ff00ff
 Torquoise   00ffff
 Orange      ff4000
-
+```
 
 http://www.engraversnetwork.com/files/Configuring-Illustrator-CS3-with-ULS.pdf
 
