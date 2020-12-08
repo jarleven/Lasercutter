@@ -1,13 +1,14 @@
 
 Use RGB color space
 
-Path 
-	Stroke 0.001 pt
-	No fill !!!!
-	
+Path/lines/Vector 
+	Stroke weight 0.001 pt
+	No fill
 	Center align stroke
 
-
+Fill/Engrave/Rster
+    No storke
+	
 #Shortcuts
     Illustrator bucket - K
 
@@ -27,14 +28,14 @@ Hold "Alt" while scrolling mouse wheel to zoom
 
 #Gravograph LSolution colors
 
-Black   000000
-Red     ff0000
-Green   00ff00
-Yellow  ffff00
-Blue    0000ff
-Purple  ff00ff
-Turkis  00ffff
-Orange  ff4000
+Black       000000
+Red         ff0000
+Green       00ff00
+Yellow      ffff00
+Blue        0000ff
+Purple      ff00ff
+Torquoise   00ffff
+Orange      ff4000
 
 
 http://www.engraversnetwork.com/files/Configuring-Illustrator-CS3-with-ULS.pdf
