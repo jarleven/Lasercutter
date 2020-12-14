@@ -12,7 +12,8 @@ Fill/Engrave/Rster
     No storke
 	
 #Shortcuts
-    Illustrator bucket - K
+    Illustrator bucket fill - K
+    
 ```
 
 ```
@@ -21,8 +22,8 @@ Fill/Engrave/Rster
 https://www.youtube.com/watch?v=gZ_sP9kLhGs
 
 Select and copy 
-Hold "Alt" - Under drag/move copied part ( crtl+c --> ctrl+alt+v  --> hold alt og dra )
-Ctrl-D lagar ny komponent med same offset
+Hold "Alt" - Under drag/move copied part ( Crtl+c --> Ctrl+Alt+v  --> hold alt and drag )
+Ctrl-D will make a new component with same offset. Just keep hitting Ctrl-D
 ```
 
 ```
