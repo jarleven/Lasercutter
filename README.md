@@ -4,7 +4,7 @@ Sharing my experience on the Gravograph LS1000 XP CO2 lasercutter
 !['Gravograph LS1000XP'](https://static.gravotech.com/var/gravotech/storage/images/gravograph/_international/produits-et-consommables/produits/solutions-laser/gravure-laser-co-grand-format/ls1000xp/397988-6-int-FR/ls1000xp_editorial_main_image.jpg)
 
 
-###The machine at EidVgs
+### The machine at EidVgs
 * Gravograph LS1000XP
 * 60W CO2 laser source
 * 4 meter/sec speed
