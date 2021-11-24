@@ -30,7 +30,7 @@
 
 [1]:https://gravograph.no/uploads/FAQ/Installere%20GT%20Smartstream%20p%C3%A5%20Windows%20Vista.pdf
 [2]:https://gravograph.no/lsolution-7-28-3/
-[3]:https://www.gravograph.com/products-and-consumables/products/laser-solutions/large-format-co-laser-engraving-machine/ls1000xp
+[3]:https://www.gravotech.com/products/laser-stations-laser-tables/ls1000xp
 [10]:https://www.festi.info/boxes.py/
 [20]:https://www.youtube.com/channel/UCbalQbcKA99XwuRVl5Chzbw
 [30]:https://photos.app.goo.gl/XnPmDQoEu5akArEb9
