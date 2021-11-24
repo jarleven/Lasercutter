@@ -1,6 +1,6 @@
 ## Using the Gravograph LS1000 XP CO2 lasercutter with Adobe Illustrator
 
-!['Gravograph LS1000XP'](https://static.gravotech.com/var/gravotech/storage/images/gravograph/_international/produits-et-consommables/produits/solutions-laser/gravure-laser-co-grand-format/ls1000xp/397988-6-int-FR/ls1000xp_editorial_main_image.jpg)
+!['Gravograph LS1000XP'](https://gravograph.no/wp-content/uploads/2018/12/LS1000XP_web-3.jpg)
 
 
 ### The machine at EidVgs
