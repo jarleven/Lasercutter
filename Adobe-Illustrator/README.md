@@ -16,15 +16,7 @@ Fill/Engrave/Rster
     
 ```
 
-```
-#Panelize!
 
-https://www.youtube.com/watch?v=gZ_sP9kLhGs
-
-Select and copy 
-Hold "Alt" - Under drag/move copied part ( Crtl+c --> Ctrl+Alt+v  --> hold alt and drag )
-Ctrl-D will make a new component with same offset. Just keep hitting Ctrl-D
-```
 
 ```
 Hold "Alt" while scrolling mouse wheel to zoom
@@ -40,6 +32,16 @@ Blue        0000ff
 Purple      ff00ff
 Torquoise   00ffff
 Orange      ff4000
+```
+
+```
+#Panelize!
+
+https://www.youtube.com/watch?v=gZ_sP9kLhGs
+
+Select and copy 
+Hold "Alt" - Under drag/move copied part ( Crtl+c --> Ctrl+Alt+v  --> hold alt and drag )
+Ctrl-D will make a new component with same offset. Just keep hitting Ctrl-D
 ```
 
 http://www.engraversnetwork.com/files/Configuring-Illustrator-CS3-with-ULS.pdf
