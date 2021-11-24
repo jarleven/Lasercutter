@@ -29,7 +29,7 @@
 
 
 [1]:https://www.gravotech.co.jp/mimaki/L-Solution%20laser%20driver.pdf
-[2]:https://www.gravotech.co.jp/download_mimaki.php
+[2]:https://gravograph.no/lsolution-7-28-3/
 [3]:https://www.gravograph.com/products-and-consumables/products/laser-solutions/large-format-co-laser-engraving-machine/ls1000xp
 [10]:https://www.festi.info/boxes.py/
 [20]:https://www.youtube.com/channel/UCbalQbcKA99XwuRVl5Chzbw
