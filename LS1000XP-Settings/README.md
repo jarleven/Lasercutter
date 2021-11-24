@@ -6,3 +6,5 @@ Presets for various materials acryllic, plywood and so on can be found in this f
 ![alt text][dialog]
 
 
+
+[dialog]: ./driver-dialog.png "Printer driver dialog box"
