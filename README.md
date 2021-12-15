@@ -20,6 +20,8 @@
 * [MakerCase][11]
 
 
+!['Gravograph LS1000XP'](https://gravograph.no/wp-content/uploads/2018/12/LS1000XP_web-3.jpg)
+
 ### Youtube channel
 * [Youtube][20]
 
