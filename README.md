@@ -16,8 +16,8 @@
 * [Gravograph LS1000XP documentation][3]
 
 ### Links to usefull software
-* [Box generator][10]
-* [Box generator][11]
+* [Boxes.py][10]
+* [MakerCase][11]
 
 
 ### Youtube channel
