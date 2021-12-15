@@ -17,6 +17,8 @@
 
 ### Links to usefull software
 * [Box generator][10]
+* [Box generator][11]
+
 
 ### Youtube channel
 * [Youtube][20]
@@ -32,6 +34,7 @@
 [2]:https://gravograph.no/lsolution-7-28-3/
 [3]:https://www.gravotech.com/products/laser-stations-laser-tables/ls1000xp
 [10]:https://www.festi.info/boxes.py/
+[11]:https://en.makercase.com/#/
 [20]:https://www.youtube.com/channel/UCbalQbcKA99XwuRVl5Chzbw
 [30]:https://photos.app.goo.gl/XnPmDQoEu5akArEb9
 
